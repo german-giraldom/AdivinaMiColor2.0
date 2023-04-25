@@ -13,7 +13,7 @@ public class Logica extends Interfaz {
 	private int rojo=0, azul=0, verde=0;
 	
 	Random all = new Random();
-	
+	 
 	AccionBotones accionbotones = new AccionBotones();
 	
 	Color colorobjetivo = new Color(objrojo,objazul,objverde);
