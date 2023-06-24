@@ -50,7 +50,7 @@ public class Interfaz extends JFrame {
 	
 	public void Ventana () {
 		ventana.setTitle("adivina mi color 2.0");
-		ventana.setDefaultCloseOperation(EXIT_ON_CLOSE);;
+		ventana.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		ventana.setVisible(true);
 		ventana.setLocationRelativeTo(null);
 		ventana.setSize(300, 220);
